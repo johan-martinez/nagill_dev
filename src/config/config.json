@@ -1,0 +1,8 @@
+
+{    
+    "host":"dbnagillinventario.caobiw0etsr7.us-east-2.rds.amazonaws.com",
+    "user": "admin",
+    "password":"admin123",
+    "database":"db_nagill_inventario",
+    "port":3306
+}
